@@ -1,4 +1,4 @@
-Create a new database named "Warcraft". Then use the SQL files to create tables and insert data.
+Create a new database named "warcraft". Then use the SQL files to create tables and insert data.
 
 Migrate in the following order:
 
