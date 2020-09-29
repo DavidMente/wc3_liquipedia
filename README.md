@@ -1,3 +1,5 @@
+Create a new database named "Warcraft". Then use the SQL files to create tables and insert data.
+
 Migrate in the following order:
 
 1. Stats_events
